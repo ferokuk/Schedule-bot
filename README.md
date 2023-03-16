@@ -6,4 +6,6 @@
 
 ### pip install -r requirements.txt
 
+### setup bot's token, chat id and group name
+
 ### python main.py
