@@ -1,7 +1,6 @@
 import asyncio
 import os
-from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
+from aiogram import Bot, Dispatcher
 from schedule import get_schedule
 import dotenv
 import json
